@@ -1,0 +1,15 @@
+--- FINAL STATE ---
+Packets INSIDE (9) - total value 149, total weight 59/60:
+  [P02       ] pos=(5, 0, 0)  size=(3, 3, 3)  orient=(l->x, h->y, w->z)  value=25  weight=10  fragile=no
+  [P03       ] pos=(4, 5, 4)  size=(5, 2, 2)  orient=(l->x, h->z, w->y)  value=15  weight=6  fragile=yes
+  [P04       ] pos=(6, 0, 6)  size=(2, 2, 2)  orient=(l->z, h->y, w->x)  value=8  weight=3  fragile=no
+  [P05       ] pos=(2, 2, 6)  size=(6, 3, 2)  orient=(l->x, h->z, w->y)  value=30  weight=12  fragile=no
+  [P06       ] pos=(6, 5, 8)  size=(2, 3, 4)  orient=(l->y, h->z, w->x)  value=18  weight=7  fragile=yes
+  [P07       ] pos=(3, 0, 1)  size=(2, 5, 2)  orient=(l->x, h->z, w->y)  value=12  weight=5  fragile=no
+  [P09       ] pos=(8, 0, 5)  size=(2, 3, 3)  orient=(l->y, h->x, w->z)  value=14  weight=6  fragile=no
+  [P10       ] pos=(3, 0, 8)  size=(5, 3, 2)  orient=(l->x, h->y, w->z)  value=22  weight=9  fragile=yes
+  [P12       ] pos=(4, 0, 4)  size=(1, 1, 1)  orient=(l->x, h->y, w->z)  value=5  weight=1  fragile=no
+Packets OUTSIDE (3) - parked at (11, 9, 13):
+  [P01       ] value=20  weight=8  fragile=no
+  [P08       ] value=10  weight=4  fragile=no
+  [P11       ] value=16  weight=8  fragile=no
